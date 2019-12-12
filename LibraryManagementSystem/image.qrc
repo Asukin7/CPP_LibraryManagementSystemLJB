@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>Background/labe_Background.jpg</file>
+        <file>Background/label_Statistics_Background.jpg</file>
+    </qresource>
+</RCC>
